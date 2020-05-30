@@ -32,8 +32,8 @@ form {
  }
 
  fieldset#usuario {
-	 background-color: green;
-    /* background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;*/ /*Altera a posição da imagem dentro do background*/
+	 background-color: #cecece;
+     background: url("../_imagens/icone-contato.png") no-repeat 95% 95%; /*Altera a posição da imagem dentro do background*/
  }
 
 fieldset#endereco {
